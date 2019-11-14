@@ -1,0 +1,3592 @@
+#######################################
+1: 08159-D - Yan Matheus Tavares e Silva
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:500
+Fase Estadual: 120
+Fase Regional: 375
+#######################################
+#######################################
+2: 08830-J - Igor Brito Andrade
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:435
+Fase Estadual: 180
+Fase Regional: 375
+#######################################
+#######################################
+3: 55623-D - Naim Shaikhzadeh Santos
+Escola: Universidade Federal da Bahia
+Cidade:Salvador/BA
+Fase Nacional:435
+Fase Estadual: 180
+Fase Regional: 325
+#######################################
+#######################################
+4: 61468-J - Thiago Mota Martins
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:435
+Fase Estadual: 130
+Fase Regional: 375
+#######################################
+#######################################
+5: 08158-A - Luiz Henrique Yuji Delgado Oda
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:425
+Fase Estadual: 100
+Fase Regional: 400
+#######################################
+#######################################
+6: 51445-D - Alan Hahn Pereira
+Escola: Colégio Objetivo Granja Viana
+Cidade:Cotia/SP
+Fase Nacional:415
+Fase Estadual: 120
+Fase Regional: 400
+#######################################
+#######################################
+7: 20601-E - João Victor Teixeira Degelo
+Escola: Colégio Etapa Valinhos
+Cidade:Valinhos/SP
+Fase Nacional:415
+Fase Estadual: 110
+Fase Regional: 350
+#######################################
+#######################################
+8: 61465-A - Lawrence Francisco Martins de Melo
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:415
+Fase Estadual: 100
+Fase Regional: 280
+#######################################
+#######################################
+9: 11529-A - Willian Wang
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:400
+Fase Estadual: 230
+Fase Regional: 375
+#######################################
+#######################################
+10: 51832-G - Lucio Cardoso Dias de Figueiredo Filho
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:380
+Fase Estadual: 160
+Fase Regional: 335
+#######################################
+#######################################
+11: 51638-C - Leonardo de Andrade Paes
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:380
+Fase Estadual: 110
+Fase Regional: 400
+#######################################
+#######################################
+12: 61463-E - Samyra Vitoria Lima de Almeida
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:375
+Fase Estadual: 110
+Fase Regional: 300
+#######################################
+#######################################
+13: 08160-I - Carolina Moura Valle Costa
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:345
+Fase Estadual: 110
+Fase Regional: 300
+#######################################
+#######################################
+14: 61484-B - Antonio Italo Lima Lopes
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:340
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+15: 08162-E - Willian Miura Mori
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:335
+Fase Estadual: 110
+Fase Regional: 350
+#######################################
+#######################################
+16: 08973-H - Rian Radeck Santos Costa
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:320
+Fase Estadual: 120
+Fase Regional: 225
+#######################################
+#######################################
+17: 67223-G - Diego Pereira da Silva
+Escola: Colégio de Aplicação da Univ. Fed. de Viçosa - CAp-COLUNI-UFV
+Cidade:Viçosa/MG
+Fase Nacional:320
+Fase Estadual: 100
+Fase Regional: 265
+#######################################
+#######################################
+18: 71062-A - Eduardo Rodrigues Amaral
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:315
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+19: 11531-I - Kenzo Yves Yamashita Nobre
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:310
+Fase Estadual: 170
+Fase Regional: 400
+#######################################
+#######################################
+20: 12561-G - Daniel Yamamoto Damico
+Escola: Colégio Etapa Valinhos
+Cidade:Valinhos/SP
+Fase Nacional:310
+Fase Estadual: 130
+Fase Regional: 150
+#######################################
+#######################################
+21: 66480-J - Ádisson Matheus Paiva Ribeiro Téjo
+Escola: IFPB - João Pessoa
+Cidade:João Pessoa/PB
+Fase Nacional:305
+Fase Estadual: 110
+Fase Regional: 180
+#######################################
+#######################################
+22: 08760-E - Cirilo Max Macedo de Morais Filho
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:300
+Fase Estadual: 110
+Fase Regional: 350
+#######################################
+#######################################
+23: 13678-C - Erik Cruz Morbach
+Escola: Instituto Federal Sul Rio Grandense Campus Sapucaia do Sul
+Cidade:Sapucaia do Sul/RS
+Fase Nacional:295
+Fase Estadual: 130
+Fase Regional: 300
+#######################################
+#######################################
+24: 56339-C - Guilherme Ferreira Gomes
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:290
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+25: 61340-A - Sofhia de Souza Goncalves
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:275
+Fase Estadual: 110
+Fase Regional: 400
+#######################################
+#######################################
+26: 63079-E - Anderson Gabriel Falcão dos Santos
+Escola: Instituto Federal de Alagoas - Campus Maceió
+Cidade:Maceió/AL
+Fase Nacional:270
+Fase Estadual: 120
+Fase Regional: 200
+#######################################
+#######################################
+27: 51497-J - Matheus Paulo Ferreira
+Escola: Colegio Integrado Objetivo
+Cidade:São Paulo/SP
+Fase Nacional:270
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+28: 52782-H - Tales Perroni Nicoletti
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:270
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+29: 65055-C - Vinícius Manuel Martins
+Escola: Instituto Federal Catarinense - Campus Blumenau
+Cidade:Blumenau/SC
+Fase Nacional:270
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+30: 08161-B - Ronaldo Kanegae Penha
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:255
+Fase Estadual: 110
+Fase Regional: 325
+#######################################
+#######################################
+31: 65430-H - Daniel Henrique Lelis de Almeida
+Escola: CEFET-MG BH
+Cidade:Belo Horizonte/MG
+Fase Nacional:250
+Fase Estadual: 110
+Fase Regional: 225
+#######################################
+#######################################
+32: 70978-H - Leonardo Moreira
+Escola: Colégio Técnico da UFMG
+Cidade:Belo Horizonte/MG
+Fase Nacional:250
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+33: 61940-G - Rembrandt Asafe Vasconcelos Costa
+Escola: IFPB - Campus Campina Grande
+Cidade:Campina Grande/PB
+Fase Nacional:245
+Fase Estadual: 110
+Fase Regional: 225
+#######################################
+#######################################
+34: 68300-G - Eduardo Quirino de Oliveira
+Escola: Colégio Militar de Brasília
+Cidade:Brasília/DF
+Fase Nacional:240
+Fase Estadual: 100
+Fase Regional: 375
+#######################################
+#######################################
+35: 64913-F - Arthur Queiroz Moura
+Escola: Instituto Dom Barreto
+Cidade:Teresina/PI
+Fase Nacional:235
+Fase Estadual: 110
+Fase Regional: 250
+#######################################
+#######################################
+36: 71050-C - Guilherme Zeus Dantas e Moura
+Escola: Colégio e Curso Pensi
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:220
+Fase Estadual: 100
+Fase Regional: 300
+#######################################
+#######################################
+37: 52201-D - Diego Cardoso Nunes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:215
+Fase Estadual: 100
+Fase Regional: 145
+#######################################
+#######################################
+38: 65491-C - Pedro César Mesquita Ferreira
+Escola: CEFET-MG BH
+Cidade:Belo Horizonte/MG
+Fase Nacional:210
+Fase Estadual: 110
+Fase Regional: 290
+#######################################
+#######################################
+39: 13176-B - Erick Gaiote dos Santos
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:210
+Fase Estadual: 100
+Fase Regional: 305
+#######################################
+#######################################
+40: 56334-H - Bruno Said Alves de Souza
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:210
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+41: 61784-E - João Marcos Cardoso da Silva
+Escola: Colégio Água Viva
+Cidade:Marília/SP
+Fase Nacional:205
+Fase Estadual: 110
+Fase Regional: 300
+#######################################
+#######################################
+42: 08801-G - Francisco Moreira Machado Neto
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:205
+Fase Estadual: 100
+Fase Regional: 350
+#######################################
+#######################################
+43: 65527-H - Gabriel Kazuki Onishi
+Escola: IFSP - Campus São Paulo
+Cidade:São Paulo/SP
+Fase Nacional:195
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+44: 12882-G - Alan Esquenazi
+Escola: Escola Eleva
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:190
+Fase Estadual: 110
+Fase Regional: 225
+#######################################
+#######################################
+45: 63608-D - Daniel Féres Maeda
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:190
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+46: 68303-F - Mateus Gonçalves Mesquita Buarque
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:185
+Fase Estadual: 120
+Fase Regional: 175
+#######################################
+#######################################
+47: 69396-E - Karen Sthepan da Penha Sousa
+Escola: COLÉGIO LUCIANO FEIJÃO
+Cidade:Sobral/CE
+Fase Nacional:185
+Fase Estadual: 110
+Fase Regional: 210
+#######################################
+#######################################
+48: 62868-F - Abraão Caiana de Freitas
+Escola: CENTRO CAMPINENSE DE EDUCAÇÃO LTDA COLÉGIO MOTIVA
+Cidade:Campina Grande/PB
+Fase Nacional:185
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+49: 56355-E - Guilherme Alfaia Caetano
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:185
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+50: 70976-B - Marcus Vinícius Araújo Peixoto
+Escola: Colégio Técnico da UFMG
+Cidade:Belo Horizonte/MG
+Fase Nacional:180
+Fase Estadual: 110
+Fase Regional: 230
+#######################################
+#######################################
+51: 68364-A - Davi Sousa Rodrigues
+Escola: IFCE campus Crato
+Cidade:Crato/CE
+Fase Nacional:180
+Fase Estadual: 100
+Fase Regional: 230
+#######################################
+#######################################
+52: 45937-H - Bianca Pina Bello
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Vitória
+Cidade:Vitória/ES
+Fase Nacional:180
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+53: 63578-G - João Pedro Ribeiro da Silva
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:180
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+54: 56992-J - Odair Sidney Cabral Júnior
+Escola: Instituto Federal do Sul de Minas - Poços de Caldas
+Cidade:Poços de Caldas/MG
+Fase Nacional:180
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+55: 09028-F - Ygor de Santana Moura
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:175
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+56: 58576-H - Yuri Henry Taashi Queiroz Kanegae
+Escola: IFSP - Araraquara / SP
+Cidade:Araraquara/SP
+Fase Nacional:175
+Fase Estadual: 100
+Fase Regional: 170
+#######################################
+#######################################
+57: 56327-E - Breno Hildebrand dos Santos
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:175
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+58: 52770-J - Eduardo Sandalo Porto
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:175
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+59: 61140-I - Jônatas Lima Magalhães de Azevedo
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:170
+Fase Estadual: 110
+Fase Regional: 250
+#######################################
+#######################################
+60: 65891-G - João Rafael de Souza Nogueira Rodrigues
+Escola: IFPB - João Pessoa
+Cidade:João Pessoa/PB
+Fase Nacional:170
+Fase Estadual: 110
+Fase Regional: 125
+#######################################
+#######################################
+61: 64981-D - Richard Robert Dias Custodio
+Escola: Instituto Federal Catarinense - Campus Blumenau
+Cidade:Blumenau/SC
+Fase Nacional:170
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+62: 21445-E - Moises da Silva Santos
+Escola: Escola Técnica Estadual José Nivaldo Pereira Ramos
+Cidade:Santa Cruz do Capibaribe/PE
+Fase Nacional:165
+Fase Estadual: 110
+Fase Regional: 190
+#######################################
+#######################################
+63: 61279-C - Rhuan Leonardo Baffero Marques
+Escola: Instituto UberHub Educação
+Cidade:Uberlândia/MG
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+64: 65532-E - Matheo Angelo Pereira Dabtas
+Escola: IFSP - Campus São Paulo
+Cidade:São Paulo/SP
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+65: 61240-J - Vitória Jesus Oliveira
+Escola: Instituto UberHub Educação
+Cidade:Uberlândia/MG
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+66: 65905-B - Petrus Pierre Ormesino Bento
+Escola: IFPB - João Pessoa
+Cidade:João Pessoa/PB
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+67: 70823-B - Diego Rodrigues Pinheiro
+Escola: Instituto Federal do Norte de Minas Gerais - campus Araçuaí
+Cidade:Araçuaí/MG
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+68: 51492-E - Filipi Enzo Siqueira Kikuchi
+Escola: Colegio Integrado Objetivo
+Cidade:São Paulo/SP
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+69: 61754-I - Giancarlo Fontela da Luz
+Escola: IFSUL Campus Gravataí
+Cidade:Gravataí/RS
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+70: 71066-C - Gustavo Soares Silva
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+71: 23938-A - Igor Augusto dos Santos
+Escola: ETEC Presidente Vargas
+Cidade:Mogi das Cruzes/SP
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+72: 67393-B - Ryan Fernandes Auder Lopes
+Escola: Instituto Federal de Educação do Tocantins - Campus Araguaína
+Cidade:Araguaína/TO
+Fase Nacional:165
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+73: 71060-E - Bruno Pereira Campos
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+74: 64070-J - Daví Henrique Silva Guimarães
+Escola: CENTRO CAMPINENSE DE EDUCAÇÃO LTDA COLÉGIO MOTIVA
+Cidade:Campina Grande/PB
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 240
+#######################################
+#######################################
+75: 62455-A - Heitor Lopes Fernandes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - campus Pau dos Ferros
+Cidade:Pau dos Ferros/RN
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+76: 71069-B - Mateus Margotti Pereira Cunha
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+77: 63596-E - Rafael Sartori Vantin
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+78: 62075-A - Izaías Machado Pessoa Neto
+Escola: Colégio Farias Brito Sobralense
+Cidade:Sobral/CE
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+79: 67227-I - Kaio Henrique Masse Vieira
+Escola: Colégio de Aplicação da Univ. Fed. de Viçosa - CAp-COLUNI-UFV
+Cidade:Viçosa/MG
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+80: 61867-A - Lucas Moreira Teixeira
+Escola: Escola Técnica de Eletrônica "Francisco Moreira da Costa"
+Cidade:Santa Rita do Sapucaí/MG
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+81: 62199-H - Rodinei Martins Coelho
+Escola: Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - Campus Três Lagoas
+Cidade:Três Lagoas/MS
+Fase Nacional:160
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+82: 41880-H - Thiago Yukio Sikusawa
+Escola: SuperGeeks Vila Mariana
+Cidade:São Paulo/SP
+Fase Nacional:155
+Fase Estadual: 110
+Fase Regional: 245
+#######################################
+#######################################
+83: 65541-D - Giovanni Dilly Scoralick Conceição
+Escola: IFSP - Campus São Paulo
+Cidade:São Paulo/SP
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+84: 66872-H - Patrick Dalagnoli Walter
+Escola: Instituto Federal Catarinense - Campus Fraiburgo
+Cidade:Fraiburgo/SC
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 210
+#######################################
+#######################################
+85: 63628-H - Ricardo Pinal de Mello
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 210
+#######################################
+#######################################
+86: 61245-E - Vitor Hugo Almeida Couto
+Escola: Instituto UberHub Educação
+Cidade:Uberlândia/MG
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 170
+#######################################
+#######################################
+87: 29616-J - Alan Vinicius de Souza
+Escola: Colégio Técnico de Limeira da Unicamp
+Cidade:Limeira/SP
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+88: 50495-B - Ana Beatriz Ribeiro Soares
+Escola: IFRN - Campus Natal Central
+Cidade:Natal/RN
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+89: 24868-H - Gilberto Ribeiro da Silva Filho
+Escola: Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - campus Ouro Branco
+Cidade:Ouro Branco/MG
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+90: 65019-G - Vinícius Antunes de Sousa
+Escola: Instituto Federal de Brasília - Campus Brasília
+Cidade:Brasília/DF
+Fase Nacional:155
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+91: 61479-E - Joao Lucas Farias Vasconcelos
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 350
+#######################################
+#######################################
+92: 03710-E - Pedro Silva dos Santos
+Escola: Instituto Federal de Sergipe - Campus Aracaju
+Cidade:Aracaju/SE
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 270
+#######################################
+#######################################
+93: 63607-A - André Zanardi Creppe
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+94: 03709-J - Edcleidson de Souza Cardoso Júnior
+Escola: Instituto Federal de Sergipe - Campus Aracaju
+Cidade:Aracaju/SE
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 180
+#######################################
+#######################################
+95: 25567-D - João Henrique Oliveira Fontes
+Escola: COLÉGIO MILITAR DO RIO DE JANEIRO
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 180
+#######################################
+#######################################
+96: 60672-D - Julio César Caldeira Moreira
+Escola: Instituto Federal do Rio de Janeiro - Campus Pinheiral
+Cidade:Pinheiral/RJ
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+97: 65788-E - Luiz Felipe Gondim Araújo
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi
+Cidade:Guanambi/BA
+Fase Nacional:150
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+98: 67725-H - Igor Silva Nascimento
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:145
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+99: 70772-H - Felipe Paiva Alencar
+Escola: COLÉGIO SANTA CECÍLIA
+Cidade:Fortaleza/CE
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 290
+#######################################
+#######################################
+100: 61121-H - Lorenzo Windmoller Martins
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+101: 63354-I - Gustavo Henrique de Oliveira Queiroz
+Escola: IFSULDEMINAS - Campus Muzambinho
+Cidade:Muzambinho/MG
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+102: 08037-C - Pedro Cleto de Araujo Ferreira
+Escola: ALPHA LUMEN INSTITUTO
+Cidade:São José dos Campos/SP
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+103: 66723-J - Rafael Guasselli Lopes da Silva
+Escola: Instituto Federal do Rio Grande do Sul - Campus Osório
+Cidade:Osório/RS
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+104: 55174-B - Lucas Ferreira Melick
+Escola: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca, Campus Petrópolis
+Cidade:Petrópolis/RJ
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+105: 68349-B - Bernardo Saraiva Oliveira Duarte
+Escola: IFMG - Campus Ouro Preto
+Cidade:Ouro Preto/MG
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+106: 23950-A - Lucas Gaspar Mendonça
+Escola: ETEC Presidente Vargas
+Cidade:Mogi das Cruzes/SP
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+107: 20600-B - Pedro Nunes Van Der Meer
+Escola: Colégio Etapa Valinhos
+Cidade:Valinhos/SP
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+108: 66470-H - Samir Jaber Copar
+Escola: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca, Campus Petrópolis
+Cidade:Petrópolis/RJ
+Fase Nacional:145
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+109: 61066-J - Gabriel Rodrigues Bhering
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:140
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+110: 13699-J - João Paulo Vasquez Dias
+Escola: Instituto Federal Sul Rio Grandense Campus Sapucaia do Sul
+Cidade:Sapucaia do Sul/RS
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+111: 71009-J - Augusto Nunes
+Escola: Geo
+Cidade:João Pessoa/PB
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+112: 62305-J - Matheus Mariano de Souza
+Escola: IFSP-Jacareí
+Cidade:Jacareí/SP
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 205
+#######################################
+#######################################
+113: 52769-E - Luca Assumpção Dillenburg
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+114: 62569-F - Raul Lomonte Figueiredo
+Escola: IFSULDEMINAS - Campus Muzambinho
+Cidade:Muzambinho/MG
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+115: 67042-F - Felipe da Silva Santos
+Escola: Instituto Federal de Alagoas - Campus Arapiraca
+Cidade:Arapiraca/AL
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 140
+#######################################
+#######################################
+116: 62073-E - Caio Magalhães Vasconcelos
+Escola: Colégio Farias Brito Sobralense
+Cidade:Sobral/CE
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+117: 22683-A - Marcos Vinícius Barbosa
+Escola: IFSULDEMINAS - Campus Avançado Carmo de Minas
+Cidade:Carmo de Minas/MG
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+118: 52162-H - Raul Rangel Moraes Bezerra
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+119: 66871-E - Antonio Lucas Sales Cavalcante Barbosa
+Escola: Colégio Objetivo Juazeiro
+Cidade:Juazeiro do Norte/CE
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+120: 42929-F - Gabriel Tomazini Marani
+Escola: IFMS - Câmpus de Naviraí
+Cidade:Naviraí/MS
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+121: 66017-C - Ian Andrade de Magalhães
+Escola: Colegio Integrado Objetivo
+Cidade:São Paulo/SP
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+122: 61126-C - Luiz Gustavo Ferraz Bandeira
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+123: 70998-B - Miguel Angelo Larssen Stohr
+Escola: IFPR - Instituto Federal do Paraná Campus Quedas do Iguaçu
+Cidade:Quedas do Iguaçu/PR
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+124: 66467-G - Miguel Guimarães Teixeira
+Escola: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca, Campus Petrópolis
+Cidade:Petrópolis/RJ
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+125: 66464-H - Yago Mahler Sobral de Sousa
+Escola: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca, Campus Petrópolis
+Cidade:Petrópolis/RJ
+Fase Nacional:140
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+126: 21909-D - Monike Freitas de Souza
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 170
+#######################################
+#######################################
+127: 48173-B - Artur Ruiz de Souza
+Escola: IFSUL Charqueadas
+Cidade:Charqueadas/RS
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 160
+#######################################
+#######################################
+128: 39973-I - Júlia Costa de Faria
+Escola: Universidade Federal de Viçosa - Campus Florestal
+Cidade:Florestal/MG
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+129: 63613-A - Lucas Sartor Chauvin
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+130: 61164-E - Ruan Figueiredo Tundis
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+131: 66463-E - Guilherme Martins Nuñez
+Escola: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca, Campus Petrópolis
+Cidade:Petrópolis/RJ
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+132: 12290-G - Havillon Barros Freitas
+Escola: EEEP José Vidal Alves
+Cidade:Canindé/CE
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+133: 64841-E - Lucas Del Puerto Garcia
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+134: 65918-C - Yuri Monteiro Pinheiro
+Escola: IFPB - João Pessoa
+Cidade:João Pessoa/PB
+Fase Nacional:135
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+135: 67458-J - Bruno Berganholi Dias
+Escola: SuperGeeks Belo Horizonte
+Cidade:Belo Horizonte/MG
+Fase Nacional:130
+Fase Estadual: 110
+Fase Regional: 300
+#######################################
+#######################################
+136: 64846-J - Matheus Soares Camacho
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:130
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+137: 03718-I - Luiz Fernando Batista Morato
+Escola: Instituto Federal de Sergipe - Campus Aracaju
+Cidade:Aracaju/SE
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 190
+#######################################
+#######################################
+138: 13412-A - Paulo José Cardoso Racy Ferreira
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 180
+#######################################
+#######################################
+139: 67040-J - Gabriel de Jesus Santos
+Escola: Instituto Federal de Alagoas - Campus Arapiraca
+Cidade:Arapiraca/AL
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+140: 61935-J - João Vitor Silva Luciano
+Escola: IFPB - Campus Campina Grande
+Cidade:Campina Grande/PB
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+141: 08858-H - Lael Viana Lima
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+142: 52210-C - Eduardo Chedid Padilha Ribeiro
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+143: 69809-A - Ana Laura Siqueira Mendes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus de Alegre
+Cidade:Alegre/ES
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+144: 64734-A - Leonardo Di Credico Ribeiro Silva
+Escola: IFSP - Campus Pirituba
+Cidade:São Paulo/SP
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+145: 70999-E - Luis Felipe Fabiane
+Escola: IFPR - Instituto Federal do Paraná Campus Quedas do Iguaçu
+Cidade:Quedas do Iguaçu/PR
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+146: 12466-A - Matheus Leão de Carvalho
+Escola: SuperGeeks Natal
+Cidade:Natal/RN
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+147: 13178-H - Milena da Silva Gallotte
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+148: 63617-C - Renato Tadeu Theodoro Junior
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:130
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+149: 65437-I - Elissandro Caetano Júnior
+Escola: CEFET-MG BH
+Cidade:Belo Horizonte/MG
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+150: 08242-B - Gabriel Freitas Pinheiro
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+151: 70973-C - Guilherme Augusto Anício Drummond do Nascimento
+Escola: Colégio Técnico da UFMG
+Cidade:Belo Horizonte/MG
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+152: 65598-E - Christhian Rezende Vieira
+Escola: Instituto Federal de Minas Gerais - Campus Bambuí
+Cidade:Bambuí/MG
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+153: 71358-J - Felipe Mastromauro Corrêa
+Escola: Colégio Objetivo Sorocaba
+Cidade:Sorocaba/SP
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+154: 64849-I - Felipe dos Santos Pires
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+155: 69252-D - Gabriel Braga Zamproni Lima
+Escola: Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS
+Cidade:Campo Grande/MS
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+156: 43581-B - Gabriel de Araújo Cabral
+Escola: Instituto Federal de São Paulo Campus Campinas
+Cidade:Campinas/SP
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+157: 63798-C - Isabela Reiss Bergamo
+Escola: Colégio Status
+Cidade:Campo Grande/MS
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+158: 61118-G - José Carlos Peixoto Leão
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+159: 69807-E - Pedro Fiorio Baldotto
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus de Alegre
+Cidade:Alegre/ES
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+160: 13179-A - Rafael Lucas da Silva Ferreira
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+161: 13430-I - Vanessa Marcelli Moura da Silva
+Escola: Sistema Elite de Ensino
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:125
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+162: 70252-I - Filipe Lacerda Benevides
+Escola: Colégio Presbiteriano Mackenzie
+Cidade:Brasília/DF
+Fase Nacional:120
+Fase Estadual: 110
+Fase Regional: 200
+#######################################
+#######################################
+163: 66189-D - Pablo Gustavo Fernandes Maia
+Escola: IFRN - Campus CAICÓ
+Cidade:Caicó/RN
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+164: 63614-D - Marco Antônio Ribeiro de Toledo
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 210
+#######################################
+#######################################
+165: 68334-E - Vitor Marques Rodrigues
+Escola: Colégio Poliedro SP
+Cidade:São Paulo/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 205
+#######################################
+#######################################
+166: 13403-B - Pedro Caselatto Quinaia
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+167: 63620-D - Giovanni Shibaki Camargo
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 170
+#######################################
+#######################################
+168: 13175-I - Ana Clara da Costa Souza
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+169: 61127-F - Arley Novais do Nascimento
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+170: 64275-G - Cristian Gabriel Butzke
+Escola: Instituto Federal Catarinense - Campus Ibirama
+Cidade:Ibirama/SC
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+171: 63618-F - Thiago Prado Dalla Dea
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+172: 64278-F - Luis Filipe Moser de Oliveira
+Escola: Instituto Federal Catarinense - Campus Ibirama
+Cidade:Ibirama/SC
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+173: 69716-C - Ítalo Rocha Medeiros
+Escola: Instituto Federal do Piauí - Campus Piripiri
+Cidade:Piripiri/PI
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+174: 61116-A - Bruno Victor Duarte Nascimento
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+175: 06632-J - Luís Guilherme Pontes Melquíades
+Escola: IFPE - campus Garanhuns
+Cidade:Garanhuns/PE
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+176: 65515-J - Bruno Zujenas Ribeiro
+Escola: IFSP - Campus São Paulo
+Cidade:São Paulo/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+177: 55315-E - Daniel Rodrigues de Moura
+Escola: Escola Técnica Estadual Vasco Antonio Venchiarutti
+Cidade:Jundiaí/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+178: 13391-C - Eduarda Vitória Geremia
+Escola: URI - Erechim
+Cidade:Erechim/RS
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+179: 47802-J - Fernanda Carreira Martins Shinoda
+Escola: SuperGeeks Ribeirão Pires
+Cidade:Ribeirão Pires/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+180: 12362-H - Francisco Eymard de Oliveira Gomes Neto
+Escola: EEEP José Vidal Alves
+Cidade:Canindé/CE
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+181: 17165-E - Fábio Fedechen Aguiar
+Escola: Instituto Federal do Paraná - Campus Umuarama
+Cidade:Umuarama/PR
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+182: 24586-C - João Pedro Guarany Teixeira
+Escola: EEEP LEONEL DE MOURA BRIZOLA
+Cidade:Fortaleza/CE
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+183: 64303-H - Lorenzo Henrique Willians da Silva Rebelo
+Escola: Ifes Campus Colatina
+Cidade:Colatina/ES
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+184: 43870-J - Lucas Barbosa Leite Silva
+Escola: Instituto Federal de Alagoas - Campus Palmeira dos Índios
+Cidade:Palmeira dos Índios/AL
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+185: 64300-I - Matheus Luciano Sesana Goldner
+Escola: Ifes Campus Colatina
+Cidade:Colatina/ES
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+186: 70748-J - Paulo Vitor Lima Borges
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus SC
+Cidade:Santa Cruz/RN
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+187: 06617-A - Rafael Abne da Silva Ferreira
+Escola: EEEP DR. JOSÉ ALVES DA SILVEIRA
+Cidade:Quixeramobim/CE
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+188: 29484-F - Victor Moraes Fernandes
+Escola: Colégio Técnico de Limeira da Unicamp
+Cidade:Limeira/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+189: 55321-E - Vinícius Ferreira Bispo
+Escola: Escola Técnica Estadual Vasco Antonio Venchiarutti
+Cidade:Jundiaí/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+190: 35727-A - Vinícius de Oliveira Teles
+Escola: Colégio Técnico de Limeira da Unicamp
+Cidade:Limeira/SP
+Fase Nacional:120
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+191: 65936-A - Alexandre Rogério Andrade Moraes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Pará
+Cidade:Belém/PA
+Fase Nacional:115
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+192: 67041-C - Micledson Carlos Santos de Lima
+Escola: Instituto Federal de Alagoas - Campus Arapiraca
+Cidade:Arapiraca/AL
+Fase Nacional:115
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+193: 71067-F - João Vitor de Melo Machado
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+194: 71061-H - Caio Henrique Noronha
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+195: 52052-E - Artur Carrah Cerqueira
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+196: 56333-E - Atila Lima Bomfim
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+197: 65594-C - Danilo Aparecido Namitala
+Escola: Instituto Federal de Minas Gerais - Campus Bambuí
+Cidade:Bambuí/MG
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+198: 52766-F - João Henri Carrenho Rocha
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+199: 48175-H - Julia Badin
+Escola: IFSUL Charqueadas
+Cidade:Charqueadas/RS
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+200: 52209-H - Morgana Oliveira
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+201: 55441-J - Thiago Coelho de Oliveira
+Escola: Instituto Federal do Rio Grande do Norte/Campus Mossoró
+Cidade:Mossoró/RN
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+202: 66742-A - Yuri Vacelh Zamulhak Zdebsk
+Escola: Instituto Federal do Paraná
+Cidade:Cascavel/PR
+Fase Nacional:110
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+203: 68167-H - Reuel Josafá Kulibaba
+Escola: Instituto Federal do Paraná - Campus União da Vitória
+Cidade:União da Vitória/PR
+Fase Nacional:105
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+204: 52206-I - Wallan Gabriel da Silva Almeida
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:105
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+205: 61291-C - Ellen Christina A Santana
+Escola: Instituto UberHub Educação
+Cidade:Uberlândia/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+206: 52205-F - Ítalo Rossi
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+207: 64902-A - Alysson Pereira do Nascimento
+Escola: Instituto Federal da Paraíba - Campus Guarabira
+Cidade:Guarabira/PB
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+208: 63755-F - Ana Karolina da Silva Barbosa
+Escola: Colégio Status
+Cidade:Campo Grande/MS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+209: 65596-I - Artur Francisco Pereira Carvalho
+Escola: Instituto Federal de Minas Gerais - Campus Bambuí
+Cidade:Bambuí/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+210: 61085-A - Cássio Rodrigo Marcião de Albuquerque
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+211: 63281-E - Daniel Elias Santos Souza
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Acre - Campus Rio Branco
+Cidade:Rio Branco/AC
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+212: 65328-I - Daniel Neves Barbosa
+Escola: Instituto Federal do Pará - Campus Paragominas
+Cidade:Paragominas/PA
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+213: 66749-B - Eduardo Prasniewski
+Escola: Instituto Federal do Paraná
+Cidade:Cascavel/PR
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+214: 43280-F - Eduardo Rocha Falvo
+Escola: Colégio São Carlos
+Cidade:São Carlos/SP
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+215: 67043-I - Emerson Floriano da Silva
+Escola: Instituto Federal de Alagoas - Campus Arapiraca
+Cidade:Arapiraca/AL
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+216: 52777-A - Felipe Reis Corerato
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+217: 63796-G - Felipe Sanches Borges Gomes
+Escola: Colégio Status
+Cidade:Campo Grande/MS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+218: 24376-I - Francisco Bressa Marique Neto
+Escola: IFMS - Câmpus de Naviraí
+Cidade:Naviraí/MS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+219: 66849-C - Guilherme Fernandes Nakazato
+Escola: Instituto Federal de Mato Grosso do Sul - Campus Aquidauana
+Cidade:Aquidauana/MS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+220: 64837-A - Guilherme Francisco de Azevedo
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+221: 13687-B - Guilherme da Rosa
+Escola: Instituto Federal Sul Rio Grandense Campus Sapucaia do Sul
+Cidade:Sapucaia do Sul/RS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+222: 70910-B - Gustavo da Silva Monteiro
+Escola: CEFET-MG Leopoldina
+Cidade:Leopoldina/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+223: 65592-G - Jonatas de Souza Lima
+Escola: Instituto Federal de Minas Gerais - Campus Bambuí
+Cidade:Bambuí/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+224: 71168-J - João Gabriel Gralha Quirino de Souza
+Escola: Sistema Elite de Ensino
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+225: 52216-A - João Gabriel Manetti Fortes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+226: 62786-C - Juan Gustavo Lima Cavalcanti
+Escola: IFPE - campus Garanhuns
+Cidade:Garanhuns/PE
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+227: 65302-G - Junivaldo Martins Bispo
+Escola: Instituto Federal do Pará - Campus Paragominas
+Cidade:Paragominas/PA
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+228: 61958-C - Jônatas Tavares dos Santos
+Escola: IFPB - Campus Campina Grande
+Cidade:Campina Grande/PB
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+229: 24367-J - Kawan Santana
+Escola: IFMS - Câmpus de Naviraí
+Cidade:Naviraí/MS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+230: 62032-D - Leandro Madeira de Oliveira
+Escola: IFMS - Câmpus de Naviraí
+Cidade:Naviraí/MS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+231: 08886-H - Lucas Nogueira Roberto
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+232: 66913-J - Luiz Gabriel Rebechi
+Escola: Instituto Federal do Rio Grande do Sul - Campus Osório
+Cidade:Osório/RS
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+233: 61089-C - Luiza Natasha Tavares Azevedo
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+234: 70914-D - Marcelo Soares de Araujo Júnior
+Escola: CEFET-MG Leopoldina
+Cidade:Leopoldina/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+235: 53289-F - Marcos Antônio Inácio Luz
+Escola: Instituto Federal de Alagoas - Campus Palmeira dos Índios
+Cidade:Palmeira dos Índios/AL
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+236: 62866-J - Maria Luisa Moraes Monteiro Dantas
+Escola: CENTRO CAMPINENSE DE EDUCAÇÃO LTDA COLÉGIO MOTIVA
+Cidade:Campina Grande/PB
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+237: 63615-G - Matheus Menao Mochetti
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+238: 27826-J - Nicholas Estevão Pereira de Oliveira Rodrigues Bragança
+Escola: Universidade Federal de Viçosa - Campus Florestal
+Cidade:Florestal/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+239: 71070-G - Nicolas Ibraim Carvalho Silva
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+240: 38647-J - Nicole da Silva Rodrigues
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+241: 06633-C - Pedro Caetano Araújo Alves
+Escola: IFPE - campus Garanhuns
+Cidade:Garanhuns/PE
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+242: 64844-D - Roberty Silva Santos
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+243: 64270-B - Roger Bambinetti
+Escola: Instituto Federal Catarinense - Campus Ibirama
+Cidade:Ibirama/SC
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+244: 21895-I - Ronaldo Costa de Freitas
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+245: 68168-A - Silvano de Freitas Vaz Filho
+Escola: Instituto Federal do Paraná - Campus União da Vitória
+Cidade:União da Vitória/PR
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+246: 67329-F - Thiago Henrique Lemos Costa
+Escola: IFTM Campus Uberlândia Centro
+Cidade:Uberlândia/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+247: 66683-A - Thiago Vinicius Cardoso Lopes
+Escola: Escola Agrícola de Jundiaí
+Cidade:Macaíba/RN
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+248: 60546-I - Victor Gabriel Pereira Ramos
+Escola: Instituto Federal do Rio de Janeiro - Campus Pinheiral
+Cidade:Pinheiral/RJ
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+249: 70911-E - Vinícius Latini Gonçalves
+Escola: CEFET-MG Leopoldina
+Cidade:Leopoldina/MG
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+250: 67172-C - Warley Gonçalves da Costa
+Escola: IF Goiano - Campus Ceres
+Cidade:Ceres/GO
+Fase Nacional:100
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+251: 57146-F - Gabriel Pastori Figueira
+Escola: Universidade Tecnológica Federal do Paraná - Campo Mourão
+Cidade:Campo Mourão/PR
+Fase Nacional:95
+Fase Estadual: 110
+Fase Regional: 250
+#######################################
+#######################################
+252: 17042-A - Marcelo Montandon Magalhães
+Escola: Colégio Etapa
+Cidade:São Paulo/SP
+Fase Nacional:75
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+253: 70771-E - Philipe Medeiros Serra
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:75
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+254: 03737-J - Thyago Ronald Santos da Silva
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Pará
+Cidade:Belém/PA
+Fase Nacional:75
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+255: 00112-I - Daniel Yuji Hosomi
+Escola: COLÉGIO CRISTO REI
+Cidade:Presidente Prudente/SP
+Fase Nacional:70
+Fase Estadual: 100
+Fase Regional: 240
+#######################################
+#######################################
+256: 65893-C - Leonardo Matheus Freitas Coutinho
+Escola: IFPB - João Pessoa
+Cidade:João Pessoa/PB
+Fase Nacional:70
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+257: 65493-I - Pedro Henrique Madeira de Oliveira Pereira
+Escola: CEFET-MG BH
+Cidade:Belo Horizonte/MG
+Fase Nacional:65
+Fase Estadual: 110
+Fase Regional: 240
+#######################################
+#######################################
+258: 70283-H - João Sessa Tavares Dias
+Escola: Universidade Federal do Espírito Santo
+Cidade:Vitória/ES
+Fase Nacional:65
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+259: 65454-D - Indra Matsiendra Cardoso Dias Ribeiro
+Escola: CEFET-MG BH
+Cidade:Belo Horizonte/MG
+Fase Nacional:65
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+260: 71158-H - Diogo Alves da Cruz
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - campus Arraial do Cabo
+Cidade:Arraial do Cabo/RJ
+Fase Nacional:60
+Fase Estadual: 100
+Fase Regional: 245
+#######################################
+#######################################
+261: 71161-I - Rodrigo Santos Oliveira
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - campus Arraial do Cabo
+Cidade:Arraial do Cabo/RJ
+Fase Nacional:60
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+262: 08036-J - Guilherme Gelmi de Freitas Salvo
+Escola: ALPHA LUMEN INSTITUTO
+Cidade:São José dos Campos/SP
+Fase Nacional:55
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+263: 63571-F - Anselmo Ruiz Lopes
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:55
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+264: 62443-C - Caio Luan Aquino Nogueira
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - campus Pau dos Ferros
+Cidade:Pau dos Ferros/RN
+Fase Nacional:55
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+265: 69713-D - Matheus dos Santos Araújo Mendes
+Escola: Instituto Federal do Piauí - Campus Piripiri
+Cidade:Piripiri/PI
+Fase Nacional:55
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+266: 06607-I - Maykon Glêdson da Silva Nunes
+Escola: EEEP DR. JOSÉ ALVES DA SILVEIRA
+Cidade:Quixeramobim/CE
+Fase Nacional:50
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+267: 70285-D - Matheus Littig Radinz
+Escola: Universidade Federal do Espírito Santo
+Cidade:Vitória/ES
+Fase Nacional:50
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+268: 24195-H - Roan Poggere da Silva
+Escola: Instituto Federal Catarinense - Campus Videira
+Cidade:Videira/SC
+Fase Nacional:50
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+269: 22684-D - Juan Belieni de Castro Araújo
+Escola: IFSULDEMINAS - Campus Avançado Carmo de Minas
+Cidade:Carmo de Minas/MG
+Fase Nacional:45
+Fase Estadual: 120
+Fase Regional: 180
+#######################################
+#######################################
+270: 61181-J - Flávio Vinícius Barroso Teixeira
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:45
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+271: 21747-D - Ana Beatriz Lima Moreira
+Escola: Colégio Antares S/s Ltda - PRE-VESTIBULAR
+Cidade:Fortaleza/CE
+Fase Nacional:45
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+272: 65061-C - Luan Crisostomo Pinto
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Fluminense
+Cidade:Bom Jesus do Itabapoana/RJ
+Fase Nacional:45
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+273: 62395-H - Pablo Deyvid de Paiva
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - campus Pau dos Ferros
+Cidade:Pau dos Ferros/RN
+Fase Nacional:45
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+274: 33444-I - Matheus Rocha Monteiro
+Escola: EEEP Walter Ramos de Araújo
+Cidade:São Gonçalo do Amarante/CE
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 190
+#######################################
+#######################################
+275: 69712-A - Adão Chaves de Oliveira Junior
+Escola: Instituto Federal do Piauí - Campus Piripiri
+Cidade:Piripiri/PI
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+276: 61926-A - Welbber Vital Porto
+Escola: IFPB - Campus Campina Grande
+Cidade:Campina Grande/PB
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+277: 71360-H - Pedro Ferreira Muniz
+Escola: Colégio Objetivo Sorocaba
+Cidade:Sorocaba/SP
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 140
+#######################################
+#######################################
+278: 69231-G - Fernanda Baioni Bonadio
+Escola: SuperGeeks São José do Rio Preto
+Cidade:São José do Rio Preto/SP
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+279: 63588-I - Gustavo Neves Piedade Louzada
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+280: 08546-G - Ismael Castro da Silveira Goncalves
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+281: 64853-C - Pedro Henrique Lima dos Santos
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:40
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+282: 69711-H - Moisés Cunha Pimentel
+Escola: Instituto Federal do Piauí - Campus Piripiri
+Cidade:Piripiri/PI
+Fase Nacional:35
+Fase Estadual: 100
+Fase Regional: 185
+#######################################
+#######################################
+283: 63576-A - Hugo Deleon Carvalho
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:35
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+284: 62027-G - Amanda Hikari Silva Tanaka
+Escola: IFMS - Câmpus de Naviraí
+Cidade:Naviraí/MS
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+285: 69714-G - Harlynson Soares Magalhães
+Escola: Instituto Federal do Piauí - Campus Piripiri
+Cidade:Piripiri/PI
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+286: 64286-B - Pablo Guilherme Santos Xavier
+Escola: Instituto Federal do Rio Grande do Norte/Campus Mossoró
+Cidade:Mossoró/RN
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+287: 43849-A - Eduardo Pereira Charapa Alves
+Escola: Governador Virgílio Távora
+Cidade:Crato/CE
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+288: 70971-G - Ezequias Kluyvert de Oliveira Lemos
+Escola: Colégio Técnico da UFMG
+Cidade:Belo Horizonte/MG
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+289: 63548-A - Francisco Racklyn Sotero dos Santos
+Escola: Instituto Federal de Alagoas - Campus Palmeira dos Índios
+Cidade:Palmeira dos Índios/AL
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+290: 43584-A - Luiz Henrique Firmino de Jesus
+Escola: Instituto Federal de São Paulo Campus Campinas
+Cidade:Campinas/SP
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+291: 13722-F - Pedro Mendonça Pereira de Oliveira
+Escola: Instituto Federal Sul Rio Grandense Campus Sapucaia do Sul
+Cidade:Sapucaia do Sul/RS
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+292: 64838-D - Rafaela Bezerra Martins
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+293: 65015-E - Wanghley Soares Martins
+Escola: Instituto Federal de Brasília - Campus Brasília
+Cidade:Brasília/DF
+Fase Nacional:30
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+294: 65793-B - Vinícius Castro Moreira
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi
+Cidade:Guanambi/BA
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+295: 67594-G - Eduardo da Silva Letsch
+Escola: Instituto Federal do Rio Grande do Sul - Campus Osório
+Cidade:Osório/RS
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+296: 71065-J - Gabriel Penido de Oliveira
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+297: 62374-A - Gentil Alyson Jácome Fernandes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - campus Pau dos Ferros
+Cidade:Pau dos Ferros/RN
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+298: 13169-I - João Pedro de Carvalho Souza
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+299: 62631-G - Lívia Reis de Morais
+Escola: IFSULDEMINAS - Campus Muzambinho
+Cidade:Muzambinho/MG
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+300: 55438-I - Pedro Goularte Dombroski
+Escola: Instituto Federal do Rio Grande do Norte/Campus Mossoró
+Cidade:Mossoró/RN
+Fase Nacional:25
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+301: 61493-A - Arthur Mendes Pereira
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:20
+Fase Estadual: 110
+Fase Regional: 350
+#######################################
+#######################################
+302: 61590-C - Luiz Matheus Rodrigues Cândido
+Escola: Escola Técnica de Eletrônica "Francisco Moreira da Costa"
+Cidade:Santa Rita do Sapucaí/MG
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+303: 21946-C - Jose Manuel dos Santos
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+304: 06608-B - Marcos Wesly Alves dos Santos
+Escola: EEEP DR. JOSÉ ALVES DA SILVEIRA
+Cidade:Quixeramobim/CE
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+305: 65056-F - Ana Julia Brites Alves
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Fluminense
+Cidade:Bom Jesus do Itabapoana/RJ
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+306: 12315-G - Anderson Luis Bento Soares
+Escola: EEEP José Vidal Alves
+Cidade:Canindé/CE
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+307: 64268-D - Bruce Vahldick
+Escola: Instituto Federal Catarinense - Campus Ibirama
+Cidade:Ibirama/SC
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+308: 59051-F - Carlos Eduardo Santana Santos
+Escola: INSTITUTO FEDERAL DE SERGIPE - CAMPUS LAGARTO
+Cidade:Lagarto/SE
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+309: 65137-F - Francisco Gustavo Braga Batista
+Escola: IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+Cidade:Fortaleza/CE
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+310: 63621-G - Gustavo Motta Cabello dos Santos
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+311: 66040-H - Gustavo Silva Maciel
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+312: 65363-B - Iran Adryan Medeiros Batista
+Escola: Instituto Federal do Pará - Campus Paragominas
+Cidade:Paragominas/PA
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+313: 61136-E - José Marques da Costa Bisneto
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+314: 71359-C - João Paulo Pinheiro Barbosa
+Escola: Colégio Objetivo Sorocaba
+Cidade:Sorocaba/SP
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+315: 61045-C - Luiz Eduardo Duarte Jácomo
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+316: 64827-I - Marcos Vinicius Paiva Carvalhar
+Escola: IF Sudeste MG, campus Rio Pomba
+Cidade:Rio Pomba/MG
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+317: 08903-D - Marcus Vinicius Miranda Silva de Castro
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+318: 68262-D - Miguel José Abdala Ribeiro
+Escola: Escola Técnica de Eletrônica "Francisco Moreira da Costa"
+Cidade:Santa Rita do Sapucaí/MG
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+319: 61147-J - Rebeca Freitas Pedrosa
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+320: 52219-J - Vinicius Maso Basso
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:20
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+321: 69652-H - Nathãn Vitor de Lima
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Parnamirim
+Cidade:Parnamirim/RN
+Fase Nacional:10
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+322: 66257-C - Felipe Naoto Takiguchi
+Escola: Instituto Federal do Paraná - Campus Paranaguá
+Cidade:Paranaguá/PR
+Fase Nacional:10
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+323: 64277-C - Guilherme Henrique Morló
+Escola: Instituto Federal Catarinense - Campus Ibirama
+Cidade:Ibirama/SC
+Fase Nacional:10
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+324: 67399-J - Raul Myron Silva Amorim
+Escola: Instituto Federal de Educação do Tocantins - Campus Araguaína
+Cidade:Araguaína/TO
+Fase Nacional:10
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+325: 70135-C - Lucas Padovan
+Escola: Colégio Cidade de Bragança Paulista
+Cidade:Bragança Paulista/SP
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 300
+#######################################
+#######################################
+326: 66764-A - Rafael Akira Okamura Ferro
+Escola: Colégio Objetivo Marquês
+Cidade:São Paulo/SP
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 300
+#######################################
+#######################################
+327: 52755-A - Gustavo Miller Santos
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 250
+#######################################
+#######################################
+328: 70464-I - Willian Henrique Ribeiro
+Escola: Instituto Federal do Triângulo Mineiro - Campus Patos de Minas
+Cidade:Patos de Minas/MG
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 225
+#######################################
+#######################################
+329: 50496-E - Luís Eduardo de Brito Câmara
+Escola: IFRN - Campus Natal Central
+Cidade:Natal/RN
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 200
+#######################################
+#######################################
+330: 60567-F - Alison Israel Ferreira Paula
+Escola: Instituto Federal do Rio de Janeiro - Campus Pinheiral
+Cidade:Pinheiral/RJ
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+331: 65775-D - Filipe de Jesus Neves
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi
+Cidade:Guanambi/BA
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+332: 65910-I - Rafael Domingos da Silva
+Escola: IFPB - João Pessoa
+Cidade:João Pessoa/PB
+Fase Nacional:-1
+Fase Estadual: 110
+Fase Regional: 100
+#######################################
+#######################################
+333: 51518-H - Fernanda Ho Seixas dos Santos
+Escola: Colégio Objetivo Pinheiros
+Cidade:São Paulo/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 350
+#######################################
+#######################################
+334: 55839-F - Rayner Sulyak de Souza
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 250
+#######################################
+#######################################
+335: 64907-F - Carlos Eduardo Salazar Ribeiro
+Escola: Instituto Dom Barreto
+Cidade:Teresina/PI
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+336: 70944-J - Cassiano Alfredo Pereira Monteiro
+Escola: IFRS - Campus Rio grande
+Cidade:Rio Grande/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+337: 13675-D - Douglas Eduardo Oliveira da Rosa
+Escola: Instituto Federal Sul Rio Grandense Campus Sapucaia do Sul
+Cidade:Sapucaia do Sul/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 225
+#######################################
+#######################################
+338: 61139-D - Christian Bernard Simas Corrêa Gioia Ribeiro
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 200
+#######################################
+#######################################
+339: 61115-H - Diogo Juan Resende Seabra
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 180
+#######################################
+#######################################
+340: 71170-H - Samuel Alves da Mota
+Escola: Sistema Elite de Ensino
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 170
+#######################################
+#######################################
+341: 48184-G - Pedro Henrique Silva Mietlicki
+Escola: IFSUL Charqueadas
+Cidade:Charqueadas/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 165
+#######################################
+#######################################
+342: 62803-I - Cleylson Coelho de Almeida
+Escola: EEEP LEONEL DE MOURA BRIZOLA
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+343: 60356-I - Davi Maia Baptista
+Escola: FARIAS BRITO COLÉGIO PRÉ VESTIBULAR CENTRAL
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+344: 21992-A - Gladson Souza de Araujo
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+345: 60578-A - Iago Manoel Brito de Sá Vaz da Silva
+Escola: Instituto Federal do Rio de Janeiro - Campus Pinheiral
+Cidade:Pinheiral/RJ
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+346: 62790-G - Isaac William Soares da Silva
+Escola: IFPE - campus Garanhuns
+Cidade:Garanhuns/PE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+347: 26572-C - Isaque Sathler Sulz
+Escola: Fibonacci Colegio
+Cidade:Ipatinga/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+348: 39984-D - Iuri Dias Ribeiro
+Escola: Universidade Federal de Viçosa - Campus Florestal
+Cidade:Florestal/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+349: 61182-C - Jose Ricardo Sampaio Coutinho Ii
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+350: 70316-D - Juliano da Silva Farias
+Escola: Instituto Federal do Piauí - Campus Parnaíba
+Cidade:Parnaíba/PI
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+351: 50489-B - Klaus Augustus Ramos Reiniger
+Escola: IFRN - Campus Natal Central
+Cidade:Natal/RN
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+352: 52761-A - Luís Ribeiro Sabença Júnior
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+353: 50499-D - Paulo Daniel Carvalho de Souza
+Escola: IFRN - Campus Natal Central
+Cidade:Natal/RN
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+354: 66772-G - Pedro Henrique Figueiredo Backes Costa
+Escola: Colégio Objetivo Paz
+Cidade:São Paulo/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+355: 61149-F - Rodrigo Malkã Rodrigues Marques
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 150
+#######################################
+#######################################
+356: 03717-F - Gabriel Christyan Leal Carvalho
+Escola: Instituto Federal de Sergipe - Campus Aracaju
+Cidade:Aracaju/SE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 140
+#######################################
+#######################################
+357: 70463-F - Arthur Mota Gonçalves
+Escola: Instituto Federal do Triângulo Mineiro - Campus Patos de Minas
+Cidade:Patos de Minas/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+358: 61130-G - Cristian Aragao de Oliveira
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+359: 63609-G - Dhiego Cassiano Fogaca Barbosa
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+360: 55838-C - Leonardo de Oliveira Silva Vaz
+Escola: Centro Federal de Educação Tecnológica Celso Sukow da Fonseca - Cefet/RJ
+Cidade:Rio de Janeiro/RJ
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+361: 16592-D - Valbert Oliveira Costa Filho
+Escola: Colégio Ari de Sá Cavalcante
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 125
+#######################################
+#######################################
+362: 66918-E - Pedro Henrique Vitorino Grachet
+Escola: Instituto Federal do Tocantins Campus de Araguatins
+Cidade:Araguatins/TO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+363: 66140-I - Rafael Prado Basto
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+364: 68352-C - Zennon Sampaio M. Lopes
+Escola: IFCE campus Crato
+Cidade:Crato/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 120
+#######################################
+#######################################
+365: 69752-I - Alisson Maciel Ferreira Santos
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+366: 69742-G - Allan Victor dos Santos Silva
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+367: 53222-C - Alêtsia Beatriz Silva Junqueira
+Escola: IFSP-Jacareí
+Cidade:Jacareí/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+368: 61993-F - Anderson da Silva Miranda
+Escola: IFMS - Câmpus de Naviraí
+Cidade:Naviraí/MS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+369: 65359-H - Andreina Portela dos Santos
+Escola: Instituto Federal do Pará - Campus Paragominas
+Cidade:Paragominas/PA
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+370: 70901-C - Athirson Soares Duarte
+Escola: Instituto Federal Sul-Rio-Grandense/Jaguarão
+Cidade:Jaguarão/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+371: 61161-F - Brenda Cristina Dourado Moura
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+372: 66292-F - Breno de Barros
+Escola: IFMS - Campus Jardim
+Cidade:Jardim/MS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+373: 53276-E - Bruna Maria Ribeiro de Morais
+Escola: ESCOLA ESTADUAL DE EDUCAÇÃO PROFISSIONAL GUIOMAR BELCHIOR AGUIAR
+Cidade:Cariré/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+374: 70992-D - Bruno Goedert Dalmolin
+Escola: IFPR - Instituto Federal do Paraná Campus Quedas do Iguaçu
+Cidade:Quedas do Iguaçu/PR
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+375: 69746-I - Carlos Eduardo Alves de Moura
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+376: 22012-H - Caroline Soares Braz
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+377: 64174-C - Cauê Kempe Rodrigues
+Escola: Escola SESI de Presidente Prudente
+Cidade:Presidente Prudente/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+378: 65018-D - Cristhian de Azambuja Villanova
+Escola: Instituto Federal de Brasília - Campus Brasília
+Cidade:Brasília/DF
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+379: 67194-C - Daniel Gonçalves
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Patrocínio
+Cidade:Patrocínio/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+380: 50803-B - Daniel Salles Leite
+Escola: Colégio Farias Brito Pré-vestibular Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+381: 62615-E - Danilo Inacio Reis de Castro
+Escola: IFSULDEMINAS - Campus Muzambinho
+Cidade:Muzambinho/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+382: 39998-H - Danniel Henrique Correa Vieira
+Escola: Universidade Federal de Viçosa - Campus Florestal
+Cidade:Florestal/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+383: 62807-A - Deyse Kelly do Nascimento Freitas
+Escola: EEEP LEONEL DE MOURA BRIZOLA
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+384: 71364-J - Felipe Caridade Fernandes
+Escola: IFRN - Campus Ceará-Mirim
+Cidade:Ceará-Mirim/RN
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+385: 67082-D - Felipe Carvalho Borges dos Santos
+Escola: Escola Salesiana São José
+Cidade:Campinas/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+386: 61091-A - Felipe Lima Almeida de Oliveira
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+387: 69747-B - Fredson Xavier de Carvalho Lopes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+388: 61150-A - Gabriel Araújo de Paiva
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+389: 71064-G - Gabriel Coelho Costa
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+390: 61042-D - Gabriel Esteves Zborowski
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+391: 62804-B - Gabriel Forte Calixto
+Escola: EEEP LEONEL DE MOURA BRIZOLA
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+392: 21997-F - Gabriel Pepes Moda
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+393: 69753-B - Gabriel Pereira Costa
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+394: 52752-B - Gabriel da Silva Julio
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+395: 61177-F - Gabriel de Oliveira Maciel
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+396: 67717-B - Giulia Ventura Ratti
+Escola: Escola Técnica de Guaianazes (ETEC - Guaianazes)
+Cidade:São Paulo/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+397: 65685-E - Guilherme Diniz Lau
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Fluminense
+Cidade:Bom Jesus do Itabapoana/RJ
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+398: 21685-E - Gustavo Abdon Sena
+Escola: Colégio Antares - Praia de Iracema
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+399: 61079-A - Gustavo Cavalcante de França Silva
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+400: 52758-J - Gustavo Ferreira Gitzel
+Escola: UNICAMP - Colégio Técnico de Campinas - COTUCA
+Cidade:Campinas/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+401: 61173-D - Gustavo Gabriel Silva dos Anjos
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+402: 61134-I - Gustavo Henrique Franco Fadel
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+403: 70747-G - Henrique Eduardo Costa da Silva
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus SC
+Cidade:Santa Cruz/RN
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+404: 66201-E - Henrique Maciel Paraguassu
+Escola: IFRO Campus Porto Velho - Calama
+Cidade:Porto Velho/RO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+405: 68859-I - Ian Dilan Soares do Rosario
+Escola: SuperGeeks Belém
+Cidade:Belém/PA
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+406: 62652-D - Joebson Nunes Trindade
+Escola: Instituto Federal do Maranhão - IFMA Campus Santa Inês
+Cidade:Santa Inês/MA
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+407: 61082-B - Josias Vargas de Souza
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+408: 67582-I - Julia Motta Coelho de Cerqueira Paes
+Escola: COLEGIO MOTIVA
+Cidade:João Pessoa/PB
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+409: 70287-J - Juliana Marcarini Carloni
+Escola: Universidade Federal do Espírito Santo
+Cidade:Vitória/ES
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+410: 66114-E - Jurandi Samuel Almeida Campelo
+Escola: Farias Brito - Colégio de Aplicação
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+411: 65303-J - Kaio Siqueira da Silva
+Escola: Instituto Federal do Pará - Campus Paragominas
+Cidade:Paragominas/PA
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+412: 03740-A - Kaleo Nabor Pimentel da Cunha
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Pará
+Cidade:Belém/PA
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+413: 17417-D - Kamilah Sampaio da Silva
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Acre (Ifac) - Campus Sena Madureira
+Cidade:Sena Madureira/AC
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+414: 21877-A - Larissa Raquel Carvalho
+Escola: IFAM-CMC
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+415: 61135-B - Leonardo Viana da Silva
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+416: 69748-E - Lucas Eduardo Silva Bragança
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+417: 64308-C - Lucas Folador Nunes
+Escola: Ifes Campus Colatina
+Cidade:Colatina/ES
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+418: 61093-G - Lucas Nunes de Oliveira
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+419: 13710-H - Luciana Finger Ribeiro
+Escola: Instituto Federal Sul Rio Grandense Campus Sapucaia do Sul
+Cidade:Sapucaia do Sul/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+420: 61761-B - Luis Felipe Kvieczinski Leal da Silva
+Escola: IFSUL Campus Gravataí
+Cidade:Gravataí/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+421: 70975-I - Luiz Eduardo Cordeiro Ribeiro
+Escola: Colégio Técnico da UFMG
+Cidade:Belo Horizonte/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+422: 52199-E - Luísa de Almeida Marcolin
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+423: 69754-E - Manoel Ferreira Junior
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+424: 70272-C - Marcivon de Moura Filho
+Escola: Instituto Federal do Mato Grosso - Campus Barra do Garças
+Cidade:Barra do Garças/MT
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+425: 69749-H - Marcos Gilmário Ferreira Moreira
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+426: 69750-C - Matheus Gonçalves Barbosa
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+427: 56380-F - Maurício César Nunes Andreata
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro IFTM - Campus Ituiutaba
+Cidade:Ituiutaba/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+428: 63625-I - Melissa Motoki Nogueira
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+429: 20604-D - Pedro Luchiari de Carvalho
+Escola: Colégio Etapa Valinhos
+Cidade:Valinhos/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+430: 64806-B - Pedro Paulo Lucas de Lira
+Escola: IFRN - Campus Natal Central
+Cidade:Natal/RN
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+431: 48211-E - Pietro do Couto Freitas
+Escola: IFSUL Charqueadas
+Cidade:Charqueadas/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+432: 69751-F - Railson Cipriano Regis
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+433: 69745-F - Rannielle Souza Barros
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+434: 61122-A - Rebeca Madi Oliveira
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+435: 63627-E - Renan Barbieri Segamarchi
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+436: 61184-I - Rodrigo Andre Rengifo Vela
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+437: 69756-A - Rogério Ribeiro de Souza
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+438: 61050-J - Romulo Vieira Freire
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+439: 61772-G - Samira Kaline Silva Melo
+Escola: Instituto Federal da Paraíba - Campus Guarabira
+Cidade:Guarabira/PB
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+440: 61109-H - Sarah Beatriz dos Santos Melo
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+441: 69757-D - Silas Vinicius Salles Nunes
+Escola: Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Campos Belos
+Cidade:Campos Belos/GO
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+442: 50105-A - Thiago Araujo Franco
+Escola: ESCOLA SESI DE CATANDUVA - CE206
+Cidade:Catanduva/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+443: 50494-I - Victor Medeiros Rebouças
+Escola: IFRN - Campus Natal Central
+Cidade:Natal/RN
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+444: 08688-B - Vinicius Alves Damasceno
+Escola: Colégio Ari de Sá Cavalcante Sede Aldeota
+Cidade:Fortaleza/CE
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+445: 63629-A - Vinicius Schoffen Tonello
+Escola: Colégio Técnico Industrial  "Prof. Isaac Portal Roldán"
+Cidade:Bauru/SP
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+446: 61124-G - Washington Antônio Moreno Riega
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+447: 61146-G - Wesllen Vasconcelos Costa
+Escola: Fundação Matias Machline
+Cidade:Manaus/AM
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+448: 71074-I - Yuri Farnésio Sousa Silva
+Escola: CEFET-MG Campus Divinópolis
+Cidade:Divinópolis/MG
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
+#######################################
+449: 52211-F - Yuri Juliano do Nascimento Boeira
+Escola: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Vacaria
+Cidade:Vacaria/RS
+Fase Nacional:-1
+Fase Estadual: 100
+Fase Regional: 100
+#######################################
